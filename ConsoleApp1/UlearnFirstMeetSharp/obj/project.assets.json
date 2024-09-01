@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\frunnikk\\Desktop\\web\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
-      "projectName": "ConsoleApp1",
-      "projectPath": "C:\\Users\\frunnikk\\Desktop\\web\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectUniqueName": "C:\\Users\\frunnikk\\Desktop\\web\\ConsoleApp1\\UlearnFirstMeetSharp\\UlearnFirstMeetSharp.csproj",
+      "projectName": "UlearnFirstMeetSharp",
+      "projectPath": "C:\\Users\\frunnikk\\Desktop\\web\\ConsoleApp1\\UlearnFirstMeetSharp\\UlearnFirstMeetSharp.csproj",
       "packagesPath": "C:\\Users\\frunnikk\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\frunnikk\\Desktop\\web\\ConsoleApp1\\ConsoleApp1\\obj\\",
+      "outputPath": "C:\\Users\\frunnikk\\Desktop\\web\\ConsoleApp1\\UlearnFirstMeetSharp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\frunnikk\\AppData\\Roaming\\NuGet\\NuGet.Config"

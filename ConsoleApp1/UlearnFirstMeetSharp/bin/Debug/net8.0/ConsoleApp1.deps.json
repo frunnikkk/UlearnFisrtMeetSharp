@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v8.0": {
-      "ConsoleApp1/1.0.0": {
+      "UlearnFirstMeetSharp/1.0.0": {
         "runtime": {
-          "ConsoleApp1.dll": {}
+          "UlearnFirstMeetSharp.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "ConsoleApp1/1.0.0": {
+    "UlearnFirstMeetSharp/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

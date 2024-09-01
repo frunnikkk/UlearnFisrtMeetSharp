@@ -1,0 +1,14 @@
+C:\Users\frunnikk\Desktop\web\UlearnFirstMeetSharp\UlearnFirstMeetSharp\bin\Debug\net8.0\UlearnFirstMeetSharp.exe
+C:\Users\frunnikk\Desktop\web\UlearnFirstMeetSharp\UlearnFirstMeetSharp\bin\Debug\net8.0\UlearnFirstMeetSharp.deps.json
+C:\Users\frunnikk\Desktop\web\UlearnFirstMeetSharp\UlearnFirstMeetSharp\bin\Debug\net8.0\UlearnFirstMeetSharp.runtimeconfig.json
+C:\Users\frunnikk\Desktop\web\UlearnFirstMeetSharp\UlearnFirstMeetSharp\bin\Debug\net8.0\UlearnFirstMeetSharp.dll
+C:\Users\frunnikk\Desktop\web\UlearnFirstMeetSharp\UlearnFirstMeetSharp\bin\Debug\net8.0\UlearnFirstMeetSharp.pdb
+C:\Users\frunnikk\Desktop\web\UlearnFirstMeetSharp\UlearnFirstMeetSharp\obj\Debug\net8.0\UlearnFirstMeetSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\frunnikk\Desktop\web\UlearnFirstMeetSharp\UlearnFirstMeetSharp\obj\Debug\net8.0\UlearnFirstMeetSharp.AssemblyInfoInputs.cache
+C:\Users\frunnikk\Desktop\web\UlearnFirstMeetSharp\UlearnFirstMeetSharp\obj\Debug\net8.0\UlearnFirstMeetSharp.AssemblyInfo.cs
+C:\Users\frunnikk\Desktop\web\UlearnFirstMeetSharp\UlearnFirstMeetSharp\obj\Debug\net8.0\UlearnFirstMeetSharp.csproj.CoreCompileInputs.cache
+C:\Users\frunnikk\Desktop\web\UlearnFirstMeetSharp\UlearnFirstMeetSharp\obj\Debug\net8.0\UlearnFirstMeetSharp.dll
+C:\Users\frunnikk\Desktop\web\UlearnFirstMeetSharp\UlearnFirstMeetSharp\obj\Debug\net8.0\refint\UlearnFirstMeetSharp.dll
+C:\Users\frunnikk\Desktop\web\UlearnFirstMeetSharp\UlearnFirstMeetSharp\obj\Debug\net8.0\UlearnFirstMeetSharp.pdb
+C:\Users\frunnikk\Desktop\web\UlearnFirstMeetSharp\UlearnFirstMeetSharp\obj\Debug\net8.0\UlearnFirstMeetSharp.genruntimeconfig.cache
+C:\Users\frunnikk\Desktop\web\UlearnFirstMeetSharp\UlearnFirstMeetSharp\obj\Debug\net8.0\ref\UlearnFirstMeetSharp.dll
